@@ -2742,6 +2742,57 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rbl7HKCtEV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-rbl7HKCtEV H2 {
+  color: #ff3366;
+  text-align: left;
+}
+.cid-rbl7HKCtEV H3 {
+  text-align: left;
+  color: #232323;
+}
+.cid-rbl7HKCtEV .mbr-text,
+.cid-rbl7HKCtEV .mbr-section-btn {
+  text-align: left;
+  color: #232323;
+}
+.cid-rbl93lVuvb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rbl93lVuvb .counter-container {
+  color: #767676;
+}
+.cid-rbl93lVuvb .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rbl93lVuvb .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rbl93lVuvb .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-rbj4ZJLmUh {
   background-image: url("../../../assets/images/quienessomos-2000x1333.jpg");
 }
@@ -3530,6 +3581,18 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rbhHDSrW7d .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rbj8W5B1Rc {
+  background: #ffffff;
+}
+.cid-rbj8W5B1Rc .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rbj8W5B1Rc .video-block {
     width: 100% !important;
   }
 }
