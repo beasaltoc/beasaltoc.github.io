@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MAS ALLA DE SKY",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1448,13 +1448,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/metro-sky-parada-las-rosas-1-738x553.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/metro-sky-parada-las-rosas-1-738x553-738x553.jpg",
+                "image": "@PROJECT_PATH@/assets/images/metro-sky-cuatro-caminos-1-738x553.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/metro-sky-cuatro-caminos-1-738x553-738x553.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Increíble",
@@ -1467,7 +1467,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Increíble",
