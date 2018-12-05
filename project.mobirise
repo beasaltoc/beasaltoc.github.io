@@ -1845,13 +1845,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mock-up-instagram-completo-def-1119x2792.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mock-up-instagram-completo-def-1119x2792-800x1996.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mock-up-instagram-completo-def-2-1119x2792.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mock-up-instagram-completo-def-2-1119x2792-800x1996.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1864,7 +1864,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escribir subtítulo aquí",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creativa",
